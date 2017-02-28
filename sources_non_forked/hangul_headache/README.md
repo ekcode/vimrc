@@ -9,9 +9,11 @@
 
 `한글입력 -> 계속 입력`
 
-아래 코드를 `.vimrc`에 입력한다.
+### Installation
+pathogem.vim 사용한다면 아래처럼 하면 된다.
 ```
-source 디렉토리/hanguel_headache_euckr.vim
+cd ~/.vim/bundle
+git clone git://github.com/ekcode/hangul_headache.git
 ```
 
 조합가능한 한글의 갯수는 11172개인데(유니코드) 이걸 모두 설정 파일에 넣으면 사용하지도 않는 글자 때문에 VIM 실행속도가 느려진다. 실제로 이중에서 사용되는 글자는 2000~3000자 정도이다. 그래서 EUK-KR에 있는 한글만(2350자) 설정 파일에 넣었다.
