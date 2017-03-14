@@ -53,6 +53,8 @@ vim-pug https://github.com/digitaltoad/vim-pug
 vim-yankstack https://github.com/maxbrunsfeld/vim-yankstack
 lightline.vim https://github.com/itchyny/lightline.vim
 hangul_headache https://github.com/ekcode/hangul_headache
+vim-autoformat https://github.com/Chiel92/vim-autoformat
+auto-pairs https://github.com/jiangmiao/auto-pairs
 """.strip()
 
 GITHUB_ZIP = '%s/archive/master.zip'
