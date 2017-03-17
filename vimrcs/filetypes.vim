@@ -1,4 +1,12 @@
 """"""""""""""""""""""""""""""
+" => Jade(Pug) section
+""""""""""""""""""""""""""""""
+au FileType pug set expandtab 
+au FileType pug set shiftwidth=2
+au FileType pug set softtabstop=2
+
+
+""""""""""""""""""""""""""""""
 " => Python section
 """"""""""""""""""""""""""""""
 let python_highlight_all = 1
