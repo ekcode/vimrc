@@ -1,10 +1,28 @@
 """"""""""""""""""""""""""""""
 " => Jade(Pug) section
 """"""""""""""""""""""""""""""
-au FileType pug set expandtab 
+au FileType pug set expandtab
+au FileType pug set tabstop=2
 au FileType pug set shiftwidth=2
 au FileType pug set softtabstop=2
 
+
+""""""""""""""""""""""""""""""
+" => Less section
+""""""""""""""""""""""""""""""
+au FileType less set expandtab
+au FileType less set tabstop=2
+au FileType less set shiftwidth=2
+au FileType less set softtabstop=2
+
+
+""""""""""""""""""""""""""""""
+" => TypeScript section
+""""""""""""""""""""""""""""""
+au FileType typescript set expandtab
+au FileType typescript set tabstop=4
+au FileType typescript set shiftwidth=4
+au FileType typescript set softtabstop=4
 
 """"""""""""""""""""""""""""""
 " => Python section
