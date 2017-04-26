@@ -44,4 +44,6 @@ Plug 'https://github.com/ekcode/hangul_headache'
 Plug 'https://github.com/Chiel92/vim-autoformat'
 Plug 'https://github.com/jiangmiao/auto-pairs'
 Plug 'https://github.com/leafgarland/typescript-vim'
+Plug 'https://github.com/derekwyatt/vim-scala'
+Plug 'https://github.com/tpope/vim-speeddating'
 call plug#end()
