@@ -7,6 +7,7 @@ nnoremap <F5> :e!<CR>
 
 " skip mapping in plugged/auto-pairs/plugin/auto-pairs.vim
 let g:AutoPairsMapCh = 0
+au Filetype clojure let b:AutoPairs = {"(": ")", "[": "]", "\"": "\""}
 
 " Smart way to move cursor in insert mode
 inoremap <C-h> <C-o>h
