@@ -42,4 +42,6 @@ Plug 'https://github.com/derekwyatt/vim-scala'
 Plug 'https://github.com/tpope/vim-speeddating'
 Plug 'https://github.com/hashivim/vim-vagrant'
 Plug 'https://github.com/vim-ruby/vim-ruby'
+Plug 'https://github.com/vim-scripts/peaksea'
+Plug 'https://github.com/vim-scripts/mru.vim'
 call plug#end()
