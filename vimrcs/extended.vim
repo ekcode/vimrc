@@ -17,7 +17,7 @@ set guioptions-=L
 
 " Colorscheme
 set background=dark
-colorscheme 1989
+colorscheme BlackSea
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
