@@ -1,5 +1,5 @@
 set background=dark
-
+colorscheme BlackSea
 
 nnoremap <F3> :Autoformat<CR>
 nnoremap <F5> :e!<CR>
