@@ -55,6 +55,7 @@ hangul_headache https://github.com/ekcode/hangul_headache
 vim-autoformat https://github.com/Chiel92/vim-autoformat
 auto-pairs https://github.com/jiangmiao/auto-pairs
 typescript-vim https://github.com/leafgarland/typescript-vim
+vim-abolish https://github.com/tpope/vim-abolish
 """.strip()
 
 GITHUB_ZIP = '%s/archive/master.zip'
