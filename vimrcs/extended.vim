@@ -17,7 +17,7 @@ set guioptions-=L
 
 " Colorscheme
 set background=dark
-colorscheme peaksea
+colorscheme 1989
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
