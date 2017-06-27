@@ -44,4 +44,5 @@ Plug 'https://github.com/hashivim/vim-vagrant'
 Plug 'https://github.com/vim-ruby/vim-ruby'
 Plug 'https://github.com/vim-scripts/mru.vim'
 Plug 'https://github.com/flazz/vim-colorschemes'
+Plug 'maksimr/vim-jsbeautify'
 call plug#end()

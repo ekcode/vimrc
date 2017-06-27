@@ -2,6 +2,13 @@ set background=dark
 colorscheme BlackSea
 
 nnoremap <F3> :Autoformat<CR>
+
+autocmd FileType javascript noremap <buffer> <F3> :call JsBeautify()<cr>
+autocmd FileType json       noremap <buffer> <F3> :call JsonBeautify()<cr>
+autocmd FileType jsx        noremap <buffer> <F3> :call JsxBeautify()<cr>
+autocmd FileType html       noremap <buffer> <F3> :call HtmlBeautify()<cr>
+autocmd FileType css        noremap <buffer> <F3> :call CSSBeautify()<cr>
+
 nnoremap <F5> :e!<CR>
 
 
