@@ -56,6 +56,8 @@ vim-autoformat https://github.com/Chiel92/vim-autoformat
 auto-pairs https://github.com/jiangmiao/auto-pairs
 typescript-vim https://github.com/leafgarland/typescript-vim
 vim-abolish https://github.com/tpope/vim-abolish
+tpope-vim-abolish https://github.com/tpope/tpope-vim-abolish
+mru.vim https://github.com/vim-scripts/mru.vim
 """.strip()
 
 GITHUB_ZIP = '%s/archive/master.zip'
